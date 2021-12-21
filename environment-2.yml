@@ -1,0 +1,12 @@
+name: kwh-analisis
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - numpy
+  - pandas
+  - python=3.9
+  - matplotlib
+  - seaborn
+  - ipykernel
+  - xlwings
